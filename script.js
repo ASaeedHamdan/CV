@@ -1,19 +1,4 @@
-/*
-$(function ()
-  {
 
-		'use strict';
-		// make nice scroll 
-		 //$("html").niceScroll();
-     $("html").niceScroll({
-			cursorcolor:"red",
-			cursorwidth:"24px",
-			background:"rgba(20,20,20,0.3)",
-			cursorborder:"1px solid red",
-			cursorborderradius:0
-		  }); 
-  });
-*/
 $(document).ready(function(){
   
   $('#menu').click(function(){
