@@ -241,6 +241,7 @@ header .navbar ul li a:hover {
 .about .row .counter .box h3 {
     font-size: 2rem;
     color: #fff;
+    line-height: 1.5;
 }
 
 .box ul li {
@@ -297,6 +298,14 @@ header .navbar ul li a:hover {
     font-size: 2rem;
     color: #fff;
     background: var(--yellow);
+}
+.project-name{
+    font-size: 20px;
+    text-align: center;
+    color: #fff;
+}
+.box-parent:hover .project-name {
+    color: #F9CA24;
 }
 
 .portfolio .box-container {
